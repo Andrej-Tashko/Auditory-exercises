@@ -1,3 +1,3 @@
 # Auditory exercises
 Auditory exercises from first year in FINKi.
-Yippie
+:arrow_right: 1st exercises :heavy_check_mark: ✔️
