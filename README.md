@@ -2,7 +2,7 @@
 Auditory exercises from first year in FINKi.<br />
 ➖ 1st exercises ✔️<br />
 ➖ 2nd exercises ✔️<br />
-➖ 3rd exercises ❌<br />
+➖ 3rd exercises ✔️<br />
 ➖ 4th exercises ❌<br />
 ➖ 5th exercises ❌<br />
 ➖ 6th exercises ❌<br />
